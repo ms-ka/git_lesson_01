@@ -1,0 +1,26 @@
+header {
+    background-color: antiquewhite;
+    text-align: center;
+    color: cornflowerblue;
+    padding: 10px;
+    font-family: fantasy;
+}
+
+main {
+    background-color: aliceblue;
+    color:rgb(87, 66, 14) ;
+    text-decoration-color: aquamarine;
+    text-align: left;
+    margin: 10px;
+    font-size: larger;
+    border: 5px;
+}
+footer {
+    background-color: rgb(237, 213, 151);
+    color: rgb(125, 165, 240);
+    text-align: right;
+    margin: 10px;
+    font-size: large;
+    border: 5px;
+    
+}
